@@ -13,7 +13,7 @@
             1° Obter as informações necessárias, pelos arquivos que contenham as informações
                entre os anos de 2020 e 2021, da população de cada Município do Estado e os casos
                de covid com base no Ano de Notificação dos Casos confirmados.
-               Os arquivos serão commitados junt com o projeto, mas, caso queira obter os originais,
+               Os arquivos serão commitados junto com o projeto, mas, caso queira obter os originais,
                seguem os links 
                (Sistema de Saúde do Rio de Janeiro: https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/esus_sivep.def)
                (IBGE Estimativa de População: https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?edicao=17283&t=downloads)
